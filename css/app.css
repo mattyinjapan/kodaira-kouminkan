@@ -1,0 +1,46 @@
+.button-wrapper {
+    margin-top: 50px;
+}
+
+.main-button {
+    margin: 5px;
+    align-self: center;
+    white-space: normal;
+    height: 100px;
+}
+
+.text-links {
+    font-size: larger; 
+    max-width: 700px; 
+    white-space: normal;
+    height: 100%;
+    padding-top: 30px;
+    min-width: 295px;
+}
+
+.cat {
+    background: #FCF460;
+}
+
+.sub-button {
+    margin: 5px;
+    align-self: center;
+    white-space: normal;
+    height: 100px;
+}
+
+.sub-text {
+    font-size: larger; 
+    max-width: 700px; 
+    white-space: normal;
+    height: 100%;
+    padding-top: 30px;
+    min-width: 295px;
+}
+
+.large-button {
+    margin: 5px;
+    align-self: center;
+    white-space: normal;
+    /* height: 200px; */
+}
